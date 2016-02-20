@@ -1,0 +1,22 @@
+20-12-2015 11:02:12: INSTALLATION - calling parent::install()
+20-12-2015 11:02:12: INSTALLATION - registering hookpoints
+20-12-2015 11:02:12: INSTALLATION - registering hookpoint header
+20-12-2015 11:02:12: INSTALLATION - registering hookpoint adminOrder
+20-12-2015 11:02:12: INSTALLATION - registering hookpoint updateOrderStatus
+20-12-2015 11:02:12: INSTALLATION - registering hookpoint updateQuantity
+20-12-2015 11:02:12: INSTALLATION - registering hookpoint displayMobileHeader
+20-12-2015 11:02:12: INSTALLATION - registering hookpoint actionUpdateQuantity
+20-12-2015 11:02:12: INSTALLATION - fetching database object
+20-12-2015 11:02:12: INSTALLATION - install tables
+20-12-2015 11:02:12: INSTALLATION - checking for field "comments" inside table "ps_shopgate_order"
+20-12-2015 11:02:12: INSTALLATION - checking for field "status" inside table "ps_shopgate_order"
+20-12-2015 11:02:12: INSTALLATION - checking for field "shopgate_order" inside table "ps_shopgate_order"
+20-12-2015 11:02:12: INSTALLATION - checking for field "is_cancellation_sent_to_shopgate" inside table "ps_shopgate_order"
+20-12-2015 11:02:12: INSTALLATION - creating field "is_cancellation_sent_to_shopgate" inside table "ps_shopgate_order"
+20-12-2015 11:02:12: INSTALLATION - checking for field "reported_cancellations" inside table "ps_shopgate_order"
+20-12-2015 11:02:12: INSTALLATION - creating field "reported_cancellations" inside table "ps_shopgate_order"
+20-12-2015 11:02:12: INSTALLATION - checking for field "is_sent_to_shopgate" inside table "ps_shopgate_order"
+20-12-2015 11:02:12: INSTALLATION - creating field "is_sent_to_shopgate" inside table "ps_shopgate_order"
+20-12-2015 11:02:12: INSTALLATION - adding order states
+20-12-2015 11:02:12: INSTALLATION - setting config values
+20-12-2015 11:02:12: INSTALLATION - installation was successful
