@@ -1,6 +1,0 @@
-
-[{shop_url}] 
-
-{lastname} {firstname} 您好, 
-
-我們�
