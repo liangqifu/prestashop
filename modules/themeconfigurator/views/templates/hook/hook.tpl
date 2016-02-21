@@ -43,7 +43,7 @@
 						{if $hItem.html}
 							<div class="item-html">
 								{$hItem.html}
-							</div> 
+							</div>  
 						{/if}
 					{if $hItem.url}
 						</a>
