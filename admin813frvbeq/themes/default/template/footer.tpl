@@ -26,7 +26,7 @@
 	</div>
 </div>
 {if $display_footer}
-<div id="footer" class="bootstrap hide">
+<div id="footer" class="bootstrap hide" style="display: none;">
 
 	<div class="col-sm-2 hidden-xs">
 		<a href="http://www.prestashop.com/" class="_blank">PrestaShop&trade;</a>
@@ -84,7 +84,7 @@
 			</a>
 			{/if}
 			{if $iso_is_fr && !$host_mode}
-			<p>Questions • Renseignements • Formations :
+			<p>Questions 鈥�Renseignements 鈥�Formations :
 				<strong>+33 (0)1.40.18.30.04</strong>
 			</p>
 			{/if}
